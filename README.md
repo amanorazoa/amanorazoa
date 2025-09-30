@@ -14,7 +14,7 @@
 - :books: My major is **Informatics and Computing Techniques**
 - :earth_asia: I'm living in **Ashgabat city**
 - 🌱 I’m currently learning **Django**
-- 📫 How to reach me [gmail](amanorazoa@gmail.com@gmail.com) :)
+- 📫 How to reach me [gmail](amanorazoa@gmail.com) :)
 - 💬 ask me about anything, i am happy to help;
 
  
